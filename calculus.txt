@@ -1,0 +1,28 @@
+- Differential Calculus is study of rates of changes
+-Integral Calculus study of continuos change ->study of aeas under curves
+-method of exhaustion
+- Differential Calculus
+   - Gradient Descent
+   - Gradient Assent
+- Highr order Derivates gives the optimisation
+-Limits
+- Limits for continous functions are easy to calculate
+- Non - continuous two case use of algebra or cal withe near and near points
+- undefined points. point where there is no y to cal
+- Derivatives and Defferentiation
+-Delta method:
+-Rules of Derivatives:
+  - The Derivative of Constant
+  - The power rule of Derivatives
+  - the constant multiply rule
+  - the sume rule
+  - the product rule
+  - the Quotient Rule -> Fraction Rule
+  - the chain Rule ** important **
+      -Gradient Descent
+      -back propogation algorithm
+  - Power Rule on a Function chain
+-Automatic Differentiation
+- TensorFlow and pyTorch are two Automatic Differential Library
+- Partial Derivatives and Integrals
+

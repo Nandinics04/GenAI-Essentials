@@ -1,0 +1,26 @@
+ - study about the vectors 2D in plane and 3D in space 
+ - scaling called in multiplication
+ - vector addition and scalar multiplication
+ - i hat and j hat are the basis vectors in xy coordinate system
+ - the span of v and w is the set of all their linear combinations av+bw leta and b vary over all real number
+ - think of individual vector as arrows
+ - set of vectors as points
+ - linear transformation and matrics
+ - matrix multiplication as composition 
+ - the factor by which the linear transformation of any area changes is detemined by determinant 
+ - column space is a span of colums of the transformed matrics
+ - determinant represents the rank of the matrics
+ - determinant is zero is that all the tranformed basis vector are dependant of each other 
+ - determinant not equal to zer which says that full rank
+ -kernal or null space 
+ - rank interms of column space is the span of the tranformed matrix
+ - Duality- Natural but surprising correspondance
+ - Dot product
+ - Cross product
+ - multiplication of tranformed matrix and coordinates of her vector gives the coordinates of vector of our version
+ - then if we apply the transformation of it gives the corrdinates of transformed vector in our version
+ - then inversion of tranformed matrix gives the transformation basis vector of her coordinates 
+ - then multiply with her coordinates gives tranformed vector coordinates
+ - Eigen vectors and Eigen values 
+ - ease of calculating the eigen values and eigen vectors
+ - about the vector spaces 
