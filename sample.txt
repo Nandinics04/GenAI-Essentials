@@ -6,3 +6,7 @@ pymupdf
 sentence-transformers
 faiss-cpu
 chromadb
+references:
+https://console.groq.com/keys
+https://platform.openai.com/api-keys
+https://cloud.typesense.org/clusters/ajzegib7v4r05d9sp/collections/lang-chain/documents/search?query_by=text&additional_search_parameters=exclude_fields%3Dvec
